@@ -1,4 +1,5 @@
-# Roblox-fps-uncapper
+# RbxFpsunlocker
+
 Roblox fps uncapper/booster. 
 Installation:
 1. Run EXE
